@@ -30,5 +30,16 @@ public class MyInteger_Test {
 	public void test() {
 		assertTrue(1==1);
 	}
+	public void isEven(){
+		assertEquals(2,true);
+	}
+	public void isOdd(){
+		assertEquals(5,true);
+	}
+	
+	public void isPrime(){
+		assertEquals(11,true);
+	}
+
 
 }
